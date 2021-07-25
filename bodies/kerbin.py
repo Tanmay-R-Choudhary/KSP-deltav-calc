@@ -34,10 +34,6 @@ class Kerbin:
     def to_keostationary_orbit(self):
         return self.to_orbit + 1115
 
-    def show_stages(self):
-        print("Stages: ")
-        print(self.dfCumulative.index)
-
     def destination(self, name, stage, mode):
         if mode == "normal":
             print("Delta-v levels")
