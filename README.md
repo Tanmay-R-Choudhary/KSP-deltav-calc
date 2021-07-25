@@ -10,4 +10,5 @@ Just make a body as your starting point and using the destination method you can
 Kerbin is the only body for now and it has 2 more methods:
 1) to_orbit() : the delta-v to LKO
 2) to_keostatinoary_orbit : the delta-v to a keostationary orbit
-More bodies and features will be added.
+
+More bodies and features will be added in time.
